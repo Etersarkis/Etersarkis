@@ -24,4 +24,3 @@ A Computer Science student who has cultivated a solid foundation in web developm
 
 <a href="http://www.github.com/Etersarkis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Etersarkis&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Etersarkis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etersarkis&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
