@@ -21,7 +21,7 @@ A Computer Science student who has cultivated a solid foundation in web developm
 
 ### Badges
 
-**My GitHub Stats**
+<b>My GitHub Stats</b>
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ETsarkis&count_private=true&show_icons=true&hide_border=true)](https://github.com/ETsarkis)
+<a href="http://www.github.com/Etersarkis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Etersarkis&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
