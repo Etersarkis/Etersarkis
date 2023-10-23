@@ -1,5 +1,5 @@
-Hi 👋 My name is Eric Ter-Sarkisov
-==================================
+Hi 👋 My name is Eric
+======================
 
 Web Developer and Object Oriented Programmer
 --------------------------------------------
