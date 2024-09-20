@@ -1,7 +1,7 @@
 Hello, My name is Eric
 ======================
 
-Web Developer and Object Oriented Programmer
+Object Oriented Programmer and Web Developer 
 --------------------------------------------
 
 A Computer Science student who has cultivated a solid foundation in web development, object-oriented programming, and database systems.
