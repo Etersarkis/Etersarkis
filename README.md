@@ -21,7 +21,7 @@ A Computer Science student who has cultivated a solid foundation in web developm
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/Etersarkis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Etersarkis&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
