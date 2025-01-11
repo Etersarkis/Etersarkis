@@ -7,7 +7,6 @@ Object Oriented Programmer and Web Developer
 A Computer Science student who has cultivated a solid foundation in web development, object-oriented programming, and database systems.
 
 * 🌍  I'm based in Toronto, ON
-* ✉️  You can contact me at [etersarkis@gmail.com](mailto:etersarkis@gmail.com)
 
 ### Skills
 
