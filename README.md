@@ -1,4 +1,4 @@
-Hello, My name is Eric
+Hello
 ======================
 
 Object Oriented Programmer and Web Developer 
