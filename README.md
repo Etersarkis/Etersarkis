@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-======================
+
 
 <h3 align="center">Full-Stack Developer | Software Engineer</h3>
---------------------------------------------
+
 
 A Computer Science student who has cultivated a solid foundation in web development, object-oriented programming, and database systems.
 
