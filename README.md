@@ -2,7 +2,7 @@
 
 <h3 align="center">🎓 Computer Science Student | 💻 Full-Stack Developer | 🛠️ Software Engineer</h3>
 
-I'm a Computer Science student with a strong foundation in software development, web technologies, and database management. I specialize in full-stack development, with expertise in backend technologies, scalable applications, and modern software engineering principles.
+I'm a Computer Science student with a strong foundation in software development, web technologies, and database management. I specialize in full-stack development, with proficency in backend technologies, scalable applications, and modern software engineering principles.
 
 * 🌍  I'm based in Toronto, ON
   
