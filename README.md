@@ -19,10 +19,7 @@ A Computer Science student who has cultivated a solid foundation in web developm
 
 <b>My GitHub Stats:</b>
 
-<a href="http://www.github.com/Etersarkis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Etersarkis&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a align="center" href="http://www.github.com/Etersarkis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Etersarkis&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etersarkis&show_icons=true&theme=dark&locale=en&layout=compact" alt="etersarkis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etersarkis&show_icons=true&locale=en" alt="etersarkis" /></p>
 
 
