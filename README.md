@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  I'm a Computer Science student with a strong foundation in software development, web technologies, and database management.  
-  I specialize in full-stack development, with proficiency in backend technologies, scalable applications, and modern software engineering principles.  
 </p>
 
 <p align="center">📍 Based in Toronto, ON</p>
