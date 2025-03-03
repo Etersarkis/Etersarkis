@@ -51,6 +51,7 @@
 [![Scene Builder](https://img.shields.io/badge/Scene_Builder-1B72BE?style=for-the-badge&logo=appveyor&logoColor=white)](https://gluonhq.com/products/scene-builder/)
 
 ### 🔧 **Dev Tools & Frameworks**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
