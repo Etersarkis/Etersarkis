@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Eric </h1>
 
 <p align="center">
-  <strong> Computer Science Student | Full-Stack Developer | Software Engineer</strong>  
+  <strong> Computer Science Graduate </strong>  
 </p>
 
 <p align="center">
